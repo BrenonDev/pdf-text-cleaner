@@ -44,12 +44,12 @@ Acesse o link: [PDF Text Cleaner](https://brenondev.github.io/pdf-text-cleaner/)
 
 ## 🪪 Licença
 
-Este projeto está licenciado sob os termos da MIT License.
+Este projeto está licenciado sob os termos da MIT License.  
 Consulte o arquivo LICENSE.md para mais detalhes.
 
 ---
 
 ## ✨ Autor
 
-Projeto desenvolvido por Brenon Olivetti Rondello — 2025.
+Projeto desenvolvido por Brenon Olivetti Rondello — 2025.  
 Livre para uso, modificação e distribuição conforme a licença MIT.
