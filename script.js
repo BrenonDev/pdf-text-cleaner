@@ -31,7 +31,7 @@ async function autoProcess() {
     }
 }
 
-input.addEventListener("focus", autoProcess);
+input.addEventListener("click", autoProcess);
 
 autoToggle.addEventListener("change",()=>{
     if(autoToggle.checked){
